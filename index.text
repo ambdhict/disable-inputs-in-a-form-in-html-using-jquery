@@ -1,0 +1,1 @@
+$('#FormId').find('input, checkbox, radio').attr('disabled', true);
